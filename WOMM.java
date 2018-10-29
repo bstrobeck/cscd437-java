@@ -8,7 +8,7 @@ public class WOMM {
 
     public static void main(String[] args) {
 
-        System.out.println("Hello Cheney");
+        System.out.println("Hello Cheney!");
 
     }
 }
